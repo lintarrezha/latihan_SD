@@ -21,7 +21,7 @@ public class BubbleSort {
         int dataSearch = scan.nextInt();
         for(int i = 0; i < data.length; i++) {
             if (dataSearch == data[i]) {
-                System.out.println("Data " + dataSearch + " ditemukan pada index ke " + i);
+                System.out.println("Data " + dataSearch + " ditemukan pada index ke- " + i);
             }
         }
     }
